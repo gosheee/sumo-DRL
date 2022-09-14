@@ -1,2 +1,2 @@
 # SUMO-DRL
-deep reinforcement learning for traffic light control
+Deep Reinforcement Learning for traffic light control
